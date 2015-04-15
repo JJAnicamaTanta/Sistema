@@ -22,7 +22,8 @@ public class Hilo extends Thread{
 				}
 		
 				a   = new Date();
-				System.out.println(df.format(a));
+				
+				System.out.println(df.format(a)+"Holas ");
 				
 			
 			
